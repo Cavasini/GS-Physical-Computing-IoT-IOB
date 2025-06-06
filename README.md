@@ -31,7 +31,7 @@ Quando um gesto é detectado de forma estável por alguns segundos, o sistema em
 
 1. Clone o repositório:
 
-git clone https://github.com/.................
+git clone [https://github.com/](https://github.com/Cavasini/GS-Physical-Computing-IoT-IOB.git)
 cd repositorio
 
 2. Instale as dependências:
@@ -50,8 +50,7 @@ O sistema abrirá a câmera e iniciará a detecção em tempo real. Realize um d
 - Interface gráfica com botões de configuração
 
 ## Link do vídeo
-
-## Código-fonte
+https://youtu.be/l3c8iz3beNM 
 
 ## Integrantes
 
