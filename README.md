@@ -31,8 +31,9 @@ Quando um gesto é detectado de forma estável por alguns segundos, o sistema em
 
 1. Clone o repositório:
 
-git clone [https://github.com/](https://github.com/Cavasini/GS-Physical-Computing-IoT-IOB.git)
-cd repositorio
+- git clone https://github.com/Cavasini/GS-Physical-Computing-IoT-IOB.git
+
+- cd repositorio
 
 2. Instale as dependências:
 
